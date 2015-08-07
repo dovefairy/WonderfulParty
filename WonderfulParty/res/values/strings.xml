@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WonderfulParty</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_frame">FrameActivity</string>
+    <string name="title_activity_layout_animal">LayoutAnimal</string>
+    <string name="title_activity_object_animator">ObjectAnimator</string>
+
+</resources>
